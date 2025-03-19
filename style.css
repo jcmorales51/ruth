@@ -190,7 +190,7 @@ html {
         #037bc0 50%,
         #037bc0 100%
       ),
-      url(./img/nosotros.jpg);
+      background-image: url(./img/nosotros.jpg);
     background-position: center, top left;
     background-repeat: no-repeat;
     background-size: 100%, 75rem;
